@@ -1,0 +1,38 @@
+{
+  "name": "trading-history-book",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev -o",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@ant-design-vue/nuxt": "^1.1.1",
+    "@nuxt/devtools": "latest",
+    "@nuxtjs/stylelint-module": "^5.1.0",
+    "@prettier/plugin-pug": "^3.0.0",
+    "nuxt": "^3.7.1",
+    "prettier": "^3.0.3",
+    "pug": "^3.0.2",
+    "pug-plain-loader": "^1.1.0",
+    "sass": "^1.66.1",
+    "stylelint": "^15.10.3"
+  },
+  "dependencies": {
+    "@pinia/nuxt": "^0.4.11",
+    "@vee-validate/yup": "^4.11.6",
+    "axios": "^1.5.0",
+    "chart.js": "^4.4.0",
+    "eslint": "8.22.0",
+    "jwt-decode": "^3.1.2",
+    "pinia": "^2.1.6",
+    "primeflex": "^3.3.1",
+    "primeicons": "^6.0.1",
+    "primevue": "^3.34.1",
+    "vee-validate": "^4.11.6",
+    "yup": "^1.2.0"
+  }
+}
