@@ -1,5 +1,5 @@
 <template lang='pug'>
-div home page
+div home
 </template>
 
 <script setup lang='ts'>
